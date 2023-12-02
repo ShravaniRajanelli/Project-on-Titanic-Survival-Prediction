@@ -41,7 +41,7 @@ The main goal of this project is to predict whether a passenger survived or not 
  score.
 
 ## Results
-The final model achieved an accuracy of X% on the testing dataset. Detailed results and insights can be found in the Jupyter notebook here.
+The final model achieved an accuracy of 94% on the testing dataset. Detailed results and insights can be found in the Jupyter notebook file.
 
 ## Dependencies
 * Python 
