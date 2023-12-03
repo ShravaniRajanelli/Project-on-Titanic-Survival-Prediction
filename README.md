@@ -47,6 +47,9 @@ The final model achieved an accuracy of 94% on the testing dataset. Detailed res
 * Python 
 * Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter.
 
+## Data Source:
+Kaggle link : https://www.kaggle.com/competitions/titanic/overview
+
   Feel free to explore and contribute to this project! If you have any questions or suggestions, please contact me at shravanirajanelli@gmail.com.
 
 Happy coding! 🚢🔍
