@@ -1,6 +1,13 @@
 # Titanic Survival Prediction
 This project is an analysis and prediction task on the famous Titanic dataset from Kaggle. The dataset contains information about passengers on the Titanic, and the goal is to predict whether a passenger survived or not.
 
+## Data Source:
+Kaggle link : https://www.kaggle.com/competitions/titanic/overview
+
+## Problem Statement
+The main goal of this project is to predict whether a passenger survived or not based on the given features. This is a binary classification problem, and we will use machine learning models to make predictions.
+
+
 ## Dataset Overview
 The Titanic dataset consists of the following columns:
 
@@ -18,10 +25,8 @@ The Titanic dataset consists of the following columns:
 * Cabin: Cabin number.
 * Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = 
   Southampton).
-  
-## Problem Statement
-The main goal of this project is to predict whether a passenger survived or not based on the given features. This is a binary classification problem, and we will use machine learning models to make predictions.
 
+  
 ## Analysis Steps
 
 ### Data Exploration:
@@ -47,8 +52,6 @@ The final model achieved an accuracy of 94% on the testing dataset. Detailed res
 * Python 
 * Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter.
 
-## Data Source:
-Kaggle link : https://www.kaggle.com/competitions/titanic/overview
 
   Feel free to explore and contribute to this project! If you have any questions or suggestions, please contact me at shravanirajanelli@gmail.com.
 
