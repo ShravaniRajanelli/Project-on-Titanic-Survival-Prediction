@@ -55,7 +55,7 @@ The final model achieved an accuracy of 94% on the testing dataset. Detailed res
 
   Feel free to explore and contribute to this project! If you have any questions or suggestions, please contact me at shravanirajanelli@gmail.com.
 
-Happy coding! 🚢🔍
+  Happy coding! 🚢🔍
 
 
 
